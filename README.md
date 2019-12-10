@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-
-    <meta charset="utf-8">
+<html>
   <body>
     <p style ="text-align:right"><i>Name:Tejaswini</i><br>
     <p style ="text-align:right">Phone Number:9686705497</p>
