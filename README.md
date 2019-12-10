@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
+<Html>
   <body>
     <p style ="text-align:right"><i>Name:Tejaswini</i><br>
     <p style ="text-align:right">Phone Number:9686705497</p>
@@ -32,6 +31,6 @@
               <li>Mongo Db</li>
               <li>Manual Testing</li>
               <li>Automation Testing</li>
-    </ul>
-  </body>
-  </html>
+            </ul>
+          </body>
+          </Html>
