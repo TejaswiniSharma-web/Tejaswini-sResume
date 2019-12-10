@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
   <body>
     <p style ="text-align:right"><i>Name:Tejaswini</i><br>
     <p style ="text-align:right">Phone Number:9686705497</p>
@@ -32,6 +33,5 @@
               <li>Manual Testing</li>
               <li>Automation Testing</li>
             </ul>
-
   </body>
 </html>
