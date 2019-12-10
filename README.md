@@ -32,6 +32,4 @@
               <li>Mongo Db</li>
               <li>Manual Testing</li>
               <li>Automation Testing</li>
-            </ul>
-          </body>
-      </html>
+    </ul>
